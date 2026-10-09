@@ -83,6 +83,10 @@ The dashboard presents customer risk information through:
 - An interactive risk-category slicer.
 - Business insights to support retention planning.
 
+## Power BI Dashboard
+
+![Customer Churn Prediction Dashboard](screenshots/customer-churn-dashboard.png)
+
 ## Key Business Insight
 
 The model classified 14,393 customers, or 13.78% of the analysed test population, as high risk. A further 42,108 customers, or 40.30%, were classified as medium risk.
